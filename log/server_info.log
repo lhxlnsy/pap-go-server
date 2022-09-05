@@ -1769,3 +1769,17 @@
 [github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:06:18.027	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/router.go:37	register swagger handler
 [github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:06:18.028	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/router.go:86	router register success
 [github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:06:18.029	[34minfo[0m	/mnt/data2/Project/pap-go-server/core/server.go:36	server run success on 	{"address": ":8888"}
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:18:57.650	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/gorm.go:61	register table success
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:18:57.651	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/redis.go:23	redis connect ping response:	{"pong": "PONG"}
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:18:57.651	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/router.go:31	use middleware logger
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:18:57.651	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/router.go:35	use middleware cors
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:18:57.651	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/router.go:37	register swagger handler
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:18:57.652	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/router.go:86	router register success
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:18:57.652	[34minfo[0m	/mnt/data2/Project/pap-go-server/core/server.go:36	server run success on 	{"address": ":8888"}
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:25:35.637	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/gorm.go:61	register table success
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:25:35.637	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/redis.go:23	redis connect ping response:	{"pong": "PONG"}
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:25:35.638	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/router.go:31	use middleware logger
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:25:35.638	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/router.go:35	use middleware cors
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:25:35.638	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/router.go:37	register swagger handler
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:25:35.638	[34minfo[0m	/mnt/data2/Project/pap-go-server/initialize/router.go:86	router register success
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:25:35.638	[34minfo[0m	/mnt/data2/Project/pap-go-server/core/server.go:36	server run success on 	{"address": ":8888"}

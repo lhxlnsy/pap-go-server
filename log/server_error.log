@@ -443,3 +443,5 @@
 [github.com/lhxlnsy/pap-go-server]2022/09/05 - 11:42:19.219	[31merror[0m	/mnt/data2/Project/pap-go-server/core/server.go:42	accept tcp [::]:8888: use of closed network connection
 [github.com/lhxlnsy/pap-go-server]2022/09/05 - 12:51:08.148	[31merror[0m	/mnt/data2/Project/pap-go-server/core/server.go:42	accept tcp [::]:8888: use of closed network connection
 [github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:08:04.741	[31merror[0m	/mnt/data2/Project/pap-go-server/core/server.go:42	accept tcp [::]:8888: use of closed network connection
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:20:53.317	[31merror[0m	/mnt/data2/Project/pap-go-server/core/server.go:42	accept tcp [::]:8888: use of closed network connection
+[github.com/lhxlnsy/pap-go-server]2022/09/05 - 13:25:43.701	[31merror[0m	/mnt/data2/Project/pap-go-server/core/server.go:42	accept tcp [::]:8888: use of closed network connection
