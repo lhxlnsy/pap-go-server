@@ -1,8 +1,8 @@
 package request
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/request"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/pap"
+	"github.com/lhxlnsy/pap-go-server/model/common/request"
+	"github.com/lhxlnsy/pap-go-server/model/pap"
 )
 
 type SiteInformationSearch struct {

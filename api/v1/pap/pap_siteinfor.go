@@ -4,11 +4,11 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/request"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/response"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/pap"
-	papReq "github.com/flipped-aurora/gin-vue-admin/server/model/pap/request"
+	"github.com/lhxlnsy/pap-go-server/global"
+	"github.com/lhxlnsy/pap-go-server/model/common/request"
+	"github.com/lhxlnsy/pap-go-server/model/common/response"
+	"github.com/lhxlnsy/pap-go-server/model/pap"
+	papReq "github.com/lhxlnsy/pap-go-server/model/pap/request"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )

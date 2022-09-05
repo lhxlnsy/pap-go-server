@@ -1,10 +1,10 @@
 package autocode
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/autocode"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/request"
-    autoCodeReq "github.com/flipped-aurora/gin-vue-admin/server/model/autocode/request"
+	"github.com/lhxlnsy/pap-go-server/global"
+	"github.com/lhxlnsy/pap-go-server/model/autocode"
+	"github.com/lhxlnsy/pap-go-server/model/common/request"
+    autoCodeReq "github.com/lhxlnsy/pap-go-server/model/autocode/request"
 )
 
 type {{.StructName}}Service struct {

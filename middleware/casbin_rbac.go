@@ -1,11 +1,11 @@
 package middleware
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/response"
-	"github.com/flipped-aurora/gin-vue-admin/server/service"
-	"github.com/flipped-aurora/gin-vue-admin/server/utils"
 	"github.com/gin-gonic/gin"
+	"github.com/lhxlnsy/pap-go-server/global"
+	"github.com/lhxlnsy/pap-go-server/model/common/response"
+	"github.com/lhxlnsy/pap-go-server/service"
+	"github.com/lhxlnsy/pap-go-server/utils"
 )
 
 var casbinService = service.ServiceGroupApp.SystemServiceGroup.CasbinService

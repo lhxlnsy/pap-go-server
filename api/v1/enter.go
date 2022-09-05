@@ -1,10 +1,10 @@
 package v1
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/api/v1/autocode"
-	"github.com/flipped-aurora/gin-vue-admin/server/api/v1/example"
-	"github.com/flipped-aurora/gin-vue-admin/server/api/v1/pap"
-	"github.com/flipped-aurora/gin-vue-admin/server/api/v1/system"
+	"github.com/lhxlnsy/pap-go-server/api/v1/autocode"
+	"github.com/lhxlnsy/pap-go-server/api/v1/example"
+	"github.com/lhxlnsy/pap-go-server/api/v1/pap"
+	"github.com/lhxlnsy/pap-go-server/api/v1/system"
 )
 
 type ApiGroup struct {

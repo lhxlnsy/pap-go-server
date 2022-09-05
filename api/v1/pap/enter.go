@@ -1,6 +1,6 @@
 package pap
 
-import "github.com/flipped-aurora/gin-vue-admin/server/service"
+import "github.com/lhxlnsy/pap-go-server/service"
 
 type ApiGroup struct {
 	PAPApi

@@ -1,4 +1,4 @@
-module github.com/flipped-aurora/gin-vue-admin/server
+module github.com/lhxlnsy/pap-go-server
 
 go 1.16
 
@@ -45,5 +45,3 @@ require (
 	gorm.io/gorm v1.22.5
 	nhooyr.io/websocket v1.8.6
 )
-
-replace github.com/flipped-aurora/gin-vue-admin/server v0.0.0 => ./
